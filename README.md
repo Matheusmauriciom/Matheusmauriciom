@@ -1,5 +1,5 @@
 ## Olá, eu sou o Matheus Mauricio! 👋  
-### Estudante de Análise e Desenvolvimento de Sistemas - 4 semestre
+### Estudante de Análise e Desenvolvimento de Sistemas - 6 semestre
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusmauriciom&show_icons=true&theme=dracula&cache_seconds=1800) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmauriciom&layout=compact&cache_seconds=1800)
